@@ -176,7 +176,7 @@ body{
 #color-input-red:checked +label ~ .up{
 
     /* background-image: rgb(238, 238, 238); */
-    background-image: linear-gradient(rgb(148, 148, 148), rgb(238, 238, 238));
+    background-image: linear-gradient(rgb(148, 148, 148), rgba(238, 238, 238, 0.247));
     /* background-image: linear-gradient(#e66465, #facd6c); */
 
 }
