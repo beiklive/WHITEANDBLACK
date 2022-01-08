@@ -48,9 +48,9 @@ body{
 }
 .beian{
     width: 400px;
-    height: 40px;
+    height: 20px;
     position: absolute;
-    bottom: 1%;
+    bottom: 10px;
     left: 1%;
     text-decoration:none;
     font-weight: bolder;
@@ -60,14 +60,14 @@ body{
 }
 
 .beian img{
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
 }
 .beian p{
     position: relative;
-    bottom: 15%;
+    /* bottom: 15%; */
     /* left: 0; */
-    margin-bottom: 50%;
+    padding-top: 0;
     width: 200px;
     color:rgb(145, 145, 145);
 }
